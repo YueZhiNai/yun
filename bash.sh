@@ -1,6 +1,3 @@
-
  git  add .
- git commit  -m "内容刷新"
- git push
-
-
+git commit  -m "Test"
+git push
